@@ -1,5 +1,5 @@
 //
-// Created by CMC on 2019/02/12.
+// Created by CraigMChen on 2019/05/16.
 //
 
 #ifndef GLUTTONOUSSNAKE_SNAKE_H
